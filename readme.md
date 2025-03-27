@@ -21,9 +21,3 @@ This project demonstrates how to read SRAM values from a HaHa FPGA board and dis
 ### 3. Upload to HaHa FPGA
 - Use **Vivado Hardware Manager** to program the FPGA.
 - Monitor LED outputs to observe SRAM values.
-
-## How It Works
-1. The **SRAM Controller** reads stored values from the SRAM.
-2. The **LED Display Module** converts each read value into a binary pattern.
-3. The **Top-Level Module** coordinates SRAM access and LED output.
-4. Data is continuously updated to reflect changes in SRAM content.
