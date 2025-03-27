@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1N-9C" package="LQFP144" speed="6" partNumber="GW1N-UV9LQ144C6/I5"/>
+    <FileList>
+        <File path="C:\Users\Chris\Desktop\fpga_project\src\PUFMux256.v" type="verilog"/>
+        <File path="C:\Users\Chris\Desktop\fpga_project\src\counter.v" type="verilog"/>
+        <File path="C:\Users\Chris\Desktop\fpga_project\src\counter32.v" type="verilog"/>
+        <File path="C:\Users\Chris\Desktop\fpga_project\src\counterctrl.v" type="verilog"/>
+        <File path="C:\Users\Chris\Desktop\fpga_project\src\gates.v" type="verilog"/>
+        <File path="C:\Users\Chris\Desktop\fpga_project\src\ram1.v" type="verilog"/>
+        <File path="C:\Users\Chris\Desktop\fpga_project\src\ro.v" type="verilog"/>
+        <File path="C:\Users\Chris\Desktop\fpga_project\src\sample_top.v" type="verilog"/>
+        <File path="C:\Gowin\Gowin_V1.9.8.11\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_mem_ctrl.v" type="gao"/>
+        <File path="C:\Gowin\Gowin_V1.9.8.11\IDE\data\ipcores\GAO_LITE\GW_AO_0\gw_ao_top.v" type="gao"/>
+        <File path="C:\Gowin\Gowin_V1.9.8.11\IDE\data\ipcores\GAO_LITE\GW_CON\gw_con_top.v" type="gao"/>
+        <File path="C:\Gowin\Gowin_V1.9.8.11\IDE\data\ipcores\gw_jtag.v" type="gao"/>
+        <File path="C:\Users\Chris\Desktop\fpga_project\impl\gwsynthesis\RTL_GAO\gw_gao_top.v" type="gao"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="dsp_balance" value="0"/>
+        <Option type="include_path" value="C:/Gowin/Gowin_V1.9.8.11/IDE/data/ipcores/GAO_LITE"/>
+        <Option type="include_path" value="C:/Users/Chris/Desktop/fpga_project/impl/gwsynthesis/RTL_GAO"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\Chris\Desktop\fpga_project\impl\gwsynthesis\fpga_project.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="top_module" value="top"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

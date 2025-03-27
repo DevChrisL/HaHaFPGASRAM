@@ -1,0 +1,14 @@
+-d C:\Users\Chris\Desktop\fpga_project\impl\gwsynthesis\fpga_project.vg
+-p GW1N-9C-LQFP144-6
+-pn GW1N-UV9LQ144C6/I5
+-cst C:\Users\Chris\Desktop\fpga_project\src\gowin_pin_assignments.cst
+-cfg C:\Users\Chris\Desktop\fpga_project\impl\pnr\device.cfg
+-gao_crc 0101010001100011
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
+-rtl_gao

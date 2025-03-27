@@ -1,0 +1,44 @@
+{
+ "Files" : [
+  {
+   "Path" : "C:/Users/Chris/Desktop/fpga_project/src/PUFMux256.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Chris/Desktop/fpga_project/src/counter.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Chris/Desktop/fpga_project/src/counter32.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Chris/Desktop/fpga_project/src/counterctrl.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Chris/Desktop/fpga_project/src/gates.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Chris/Desktop/fpga_project/src/ram1.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Chris/Desktop/fpga_project/src/ro.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Chris/Desktop/fpga_project/src/sample_top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/Chris/Desktop/fpga_project/impl/temp/rtl_parser.result",
+ "Top" : "top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
