@@ -5,7 +5,6 @@ This project demonstrates how to read SRAM values from a HaHa FPGA board and dis
 ## Features
 - Reads data from the onboard SRAM.
 - Displays the binary representation of stored values using LEDs.
-- Implements a simple FSM (Finite State Machine) for SRAM read operations.
 - Verilog-based design for easy FPGA synthesis and deployment.
 
 ### 1. Open Project in Vivado
